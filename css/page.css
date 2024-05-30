@@ -65,9 +65,11 @@ a:hover {
   justify-content: center;
   align-items: stretch;
   flex-direction: column;
-  width:60%;
+  width:50em;
   height: auto;
   color: rgb(255, 255, 255);
+  max-width: 100%;
+  max-height: 100%;
 }
 .dates{
   font-size:1.3em;
