@@ -7,7 +7,6 @@ body {
     -webkit-box-pack: center;
     justify-content: center;
     background-color: #ffffff; 
-    
 }
 
 a,
@@ -19,10 +18,11 @@ a:hover {
 #nav-header {
   background-color: rgba(255, 255, 255, 1);
   margin-top: 0.5em;
-  height: 4em;
+  height: 5em;
   border-bottom: 1px solid rgb(182, 178, 178); 
   
 }
+
 .nav-link{
   color: rgb(75, 73, 73)!important; 
 }
